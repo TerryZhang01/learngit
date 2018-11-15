@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 My stupid boss.
 Creating a new branch is quick and simple.
 anything is possible.
+this should not be saved.
